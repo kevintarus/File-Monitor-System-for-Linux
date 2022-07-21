@@ -1,0 +1,3 @@
+/home/tarus/Desktop/Final_Project/files_to_be_watched, true, .xlsx|txt
+/home/tarus/Desktop/example.txt
+
