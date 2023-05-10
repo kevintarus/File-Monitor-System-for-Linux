@@ -5,13 +5,13 @@ SMTP_PORT = 587
 SMTP_SEC_PROTOCOL = 'tls' # valid values: tls, ssl, none
 
 SMTP_REQUIRE_AUTH = True
-SMTP_USERNAME = "kevin.tarus@strathmore.edu"
-SMTP_PASSWORD = "#m!f4m!l!4#"
+SMTP_USERNAME = "example@gmail.com"
+SMTP_PASSWORD = "inputpassword"
 
 
 FROM = "kevin.tarus@strathmore.edu"
 FROM_NAME = "File Monitor System"
-TO = "kevin.tarus@strathmore.edu"
+TO = "example@email.com"
 
 ################ General settings ################
 WATCH_LIST_FILE_PATH = 'watch_list.txt'  # files and directories path list to be watched
